@@ -1,9 +1,0 @@
-grass
-grass-dev
-r-base
-r-base-dev
-libgdal-dev
-libproj-dev
-wget
-software-properties-common
-ca-certificates
