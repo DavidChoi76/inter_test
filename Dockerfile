@@ -37,4 +37,4 @@ RUN R --slave -e 'install.packages("sp")'  \
     R --slave -e 'install.packages("httr")'  \
     R --slave -e 'install.packages("devtools")'
     
-RUN python setup.py
+RUN python config/setup.py
